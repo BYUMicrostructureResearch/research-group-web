@@ -1,20 +1,12 @@
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
 prof-c:
-    display_name: "Prof C"
+    display_name: "Professor David T. Fullwood"
     role: faculty
 
-profx:
-    display_name: "Professor X"
+profhomer:
+    display_name: "Professor Eric R. Homer"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+    github: ehomer
     role: faculty
     image: /img/people/prof-x.png
     bio: Professor
